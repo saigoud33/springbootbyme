@@ -1,0 +1,14 @@
+insert into users values(100,sysdate(),'sai1');
+insert into users values(200,sysdate(),'sai2');
+insert into users values(300,sysdate(),'sai3');
+insert into users values(400,sysdate(),'sai4');
+insert into users values(500,sysdate(),'sai5');
+insert into users values(600,sysdate(),'sai6');
+insert into users values(700,sysdate(),'sai7');
+insert into users values(800,sysdate(),'sai8');
+insert into users values(900,sysdate(),'sai9');
+insert into users values(1000,sysdate(),'sai10');
+insert into posts values(1001,'My 1st post',100);
+insert into posts values(1002,'My 2nd post',100);
+insert into posts values(1003,'My(300) 1st post',300);
+insert into posts values(1004,'My(300) 2nd post',300);
